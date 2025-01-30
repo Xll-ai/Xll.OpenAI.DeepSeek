@@ -4,7 +4,7 @@
   <tr>
     <td style="width: 60px;"><img src="https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/News/Donald_Rumsfeld_US_Army.png" width="60"></td>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
-    <td><strong>DeepSeek V3 - "Explain Known Knows"</strong></td>
+    <td><strong>DeepSeek V3 - "Explain Known Knowns"</strong></td>
   </tr>
 </table>
 
@@ -28,7 +28,7 @@ His statement has since been widely discussed and analyzed, often cited in discu
   <tr>
     <td style="width: 60px;"><img src="https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/News/Donald_Rumsfeld_US_Army.png" width="60"></td>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="60"></td>
-    <td><strong>Open AI GPT-4 - "Explain Known Knows"</strong></td>
+    <td><strong>Open AI GPT-4 - "Explain Known Knowns"</strong></td>
   </tr>
 </table>
 
