@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+<div style="margin-left: 10%; width: 60%; padding: 10px; border-left: 3px solid #ccc;">
+
 Donald Rumsfeld, the former U.S. Secretary of Defense, famously spoke about "known knowns" during a 2002 press briefing while discussing intelligence and uncertainty, particularly regarding Iraq's weapons of mass destruction. His statement outlined a framework for understanding different levels of knowledge:
 
 **Known knowns** – Things we know that we know. These are facts that are well understood and confirmed.
@@ -29,4 +31,4 @@ Donald Rumsfeld, the former U.S. Secretary of Defense, famously spoke about "kno
 
 His point was that the most dangerous uncertainties often come from the "unknown unknowns," the risks or threats we don’t even realize exist. While his phrasing was initially mocked, the concept itself is widely used in risk management, intelligence analysis, and decision-making.
 
-
+</div>
