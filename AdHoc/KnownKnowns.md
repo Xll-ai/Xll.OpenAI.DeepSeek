@@ -1,14 +1,16 @@
 ### Comparisons
 
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px;"><strong>GPT-4</strong></p>
-  <img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="150">
-</div>
+<table>
+  <tr>
+    <td><strong>GPT-4</strong></td>
+    <td><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="150"></td>
+  </tr>
+  <tr>
+    <td><strong>DeepSeek</strong></td>
+    <td><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="150"></td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px;"><strong>DeepSeek</strong></p>
-  <img src="https://custom.typingmind.com/assets/models/deepseek.png" width="150">
-</div>
 
 
 
