@@ -8,7 +8,20 @@
   </tr>
 </table>
 
-## Known Knowns
+<div style="margin-left: 10%; width: 60%; padding: 10px; border-left: 3px solid #ccc;">
+
+Donald Rumsfeld, the former U.S. Secretary of Defense, famously discussed the concept of "known knowns" during a press briefing in 2002. His full statement was:
+
+> "There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say, we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know."
+
+When Rumsfeld referred to **"known knowns,"** he was talking about information or facts that we are aware of and understand. These are things we know with certainty. For example, in a military context, a *known known* might be the capabilities of a particular weapon system or the location of an enemy force.
+
+The broader context of his statement was about the challenges of intelligence and decision-making, particularly in the lead-up to the Iraq War. Rumsfeld was emphasizing the complexity of understanding and anticipating threats, acknowledging that while some information is clear and certain, much remains uncertain or completely unknown.
+
+His statement has since been widely discussed and analyzed, often cited in discussions about **risk management, decision theory, and the limits of knowledge**.
+
+</div>
+
 
 
 <table style="width: 100%; border-collapse: collapse;">
