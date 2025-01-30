@@ -1,4 +1,4 @@
-### Comparisons
+## Comparisons
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-## Hello
+## Known Knowns
 
 
 <table style="width: 100%; border-collapse: collapse;">
