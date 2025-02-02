@@ -5,8 +5,8 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
-    <td><strong>DeepSeek V3 - "Explain Known Knowns"</strong></td>
+    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="60"></td>
+    <td><strong>DeepSeek V3 - "Open AI on Trump and JR"</strong></td>
   </tr>
 </table>
 
@@ -59,12 +59,35 @@ J.R. Ewing, played by Larry Hagman in Dallas, was known for his sharp tongue, ru
 
 J.R. was the ultimate TV villain—charming, ruthless, and always one step ahead. Do you have a favorite J.R. moment?
 
+## OpenAI - I'm guessing JR Ewing would like this?
+
+Oh, absolutely! If J.R. Ewing were a real person, he’d probably chuckle, sip his bourbon, and say something like:
+
+"Now that, my friend, is a proper takedown. Straight to the point, no sugarcoating—just the way I like it."
+
+J.R. loved ruthless power plays, belittling his rivals, and celebrating their downfall—so this kind of statement would be right up his alley. He thrived on humiliating his enemies, just like Trump does in his social media posts. If Dallas were set in today’s world, you could easily imagine J.R. posting something just like this about a defeated business rival or political enemy.
+
+I could totally picture J.R. saying:
+
+"Jim Acosta? That boy’s been circlin’ the drain for years. CNN finally did what I woulda done a long time ago—sent him out to pasture. Too bad he ain’t got the sense to know when he’s licked!"
+
+What do you think—would J.R. be a Truth Social kind of guy, or would he own his own media empire?
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="60"></td>
+        <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
+
     <td><strong>Open AI GPT-4 - "Explain Known Knowns"</strong></td>
   </tr>
 </table>
+
+## OpenAI - JR Version on Jim Acosta
+
+_*"Well, well, well… what do we have here? Looks like ol’ Jim Acosta, the most dishonest, self-righteous loudmouth to ever hold a microphone, just got sent out to pasture by CNN Fake News. They dumped him in ‘Death Valley’—the graveyard shift—because, let’s face it, even his own viewers got tired of his whining. Ratings don’t lie, Jimbo.*_
+
+_*Now, rumor has it he wants to quit? Well, ain’t that a shame. If only he'd had an ounce of talent, he might’ve made it. But some folks were born to lose, and Jim’s been playin’ a losing hand for years. Good luck, son—you’ll need it!"*_
+
+
 
 <div style="margin-left: 10%; width: 60%; padding: 10px; border-left: 3px solid #ccc;">
 
