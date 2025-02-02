@@ -12,7 +12,6 @@
 
 
 
-
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="60"></td>
@@ -22,12 +21,8 @@
 
 <div style="margin-left: 10%; width: 60%; padding: 10px; border-left: 3px solid #ccc;">
 
-> Donald Rumsfeld, the former U.S. Secretary of Defense, famously spoke about "known knowns" during a 2002 press briefing while discussing intelligence and uncertainty, particularly regarding Iraq's weapons of mass destruction. His statement outlined a framework for understanding different levels of knowledge:
-> 
-> **Known knowns** – Things we know that we know. These are facts that are well understood and confirmed.
-> 
-> **Known unknowns** – Things we know that we don’t know. These are gaps in our knowledge that we are aware of.
-> 
-> **Unknown unknowns** – Things we don’t know that we don’t know. These are unforeseen, unpredictable factors that can surprise us.
-> 
-> His point was that the most dangerous uncertainties often come from the "unknown unknowns," the risks or threats we don’t even realize exist. While his phrasing was initially mocked, the concept itself is widely used in risk management, intelligence analysis, and decision-making.
+> “Wow, really good news! Jim Acosta, one of the worst and most dishonest reporters in journalistic history, a major sleazebag, has been relegated by CNN Fake News to the Midnight hour, “Death Valley,” because of > extraordinarily BAD RATINGS (and no talent!). Word is that he wants to QUIT, and that would be even better. Jim is a major loser who will fail no matter where he ends up. Good luck Jim!”
+
+@realDonaldTrump
+
+This text appears to be a social media post, likely from a platform like Twitter, attributed to Donald Trump. The post criticizes Jim Acosta, a CNN reporter, and mentions his reassignment to a less prominent time slot. The tone is highly critical and dismissive.
