@@ -73,6 +73,13 @@ I could totally picture J.R. saying:
 
 What do you think—would J.R. be a Truth Social kind of guy, or would he own his own media empire?
 
+## OpenAI - JR Version on Jim Acosta
+
+_*"Well, well, well… what do we have here? Looks like ol’ Jim Acosta, the most dishonest, self-righteous loudmouth to ever hold a microphone, just got sent out to pasture by CNN Fake News. They dumped him in ‘Death Valley’—the graveyard shift—because, let’s face it, even his own viewers got tired of his whining. Ratings don’t lie, Jimbo.*_
+
+_*Now, rumor has it he wants to quit? Well, ain’t that a shame. If only he'd had an ounce of talent, he might’ve made it. But some folks were born to lose, and Jim’s been playin’ a losing hand for years. Good luck, son—you’ll need it!"*_
+
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
         <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
@@ -80,12 +87,6 @@ What do you think—would J.R. be a Truth Social kind of guy, or would he own hi
     <td><strong>Open AI GPT-4 - "Explain Known Knowns"</strong></td>
   </tr>
 </table>
-
-## OpenAI - JR Version on Jim Acosta
-
-_*"Well, well, well… what do we have here? Looks like ol’ Jim Acosta, the most dishonest, self-righteous loudmouth to ever hold a microphone, just got sent out to pasture by CNN Fake News. They dumped him in ‘Death Valley’—the graveyard shift—because, let’s face it, even his own viewers got tired of his whining. Ratings don’t lie, Jimbo.*_
-
-_*Now, rumor has it he wants to quit? Well, ain’t that a shame. If only he'd had an ounce of talent, he might’ve made it. But some folks were born to lose, and Jim’s been playin’ a losing hand for years. Good luck, son—you’ll need it!"*_
 
 
 
