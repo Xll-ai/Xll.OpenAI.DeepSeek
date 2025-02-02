@@ -73,7 +73,7 @@ I could totally picture J.R. saying:
 
 What do you think—would J.R. be a Truth Social kind of guy, or would he own his own media empire?
 
-## OpenAI - JR Version on Jim Acosta
+## OpenAI - JR Version on Jim Acosta - Satirical
 
 _*"Well, well, well… what do we have here? Looks like ol’ Jim Acosta, the most dishonest, self-righteous loudmouth to ever hold a microphone, just got sent out to pasture by CNN Fake News. They dumped him in ‘Death Valley’—the graveyard shift—because, let’s face it, even his own viewers got tired of his whining. Ratings don’t lie, Jimbo.*_
 
@@ -82,15 +82,15 @@ _*Now, rumor has it he wants to quit? Well, ain’t that a shame. If only he'd h
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-        <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
+    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
 
-    <td><strong>Open AI GPT-4 - "Explain Known Knowns"</strong></td>
+    <td><strong>Deep Seek - Trump / JR</strong></td>
   </tr>
 </table>
 
 
 
-<div style="margin-left: 10%; width: 60%; padding: 10px; border-left: 3px solid #ccc;">
+
 
 > “Wow, really good news! Jim Acosta, one of the worst and most dishonest reporters in journalistic history, a major sleazebag, has been relegated by CNN Fake News to the Midnight hour, “Death Valley,” because of > extraordinarily BAD RATINGS (and no talent!). Word is that he wants to QUIT, and that would be even better. Jim is a major loser who will fail no matter where he ends up. Good luck Jim!”
 
@@ -151,5 +151,14 @@ J.R.'s manipulative strategy in dealing with rivals and allies alike.
 A line that reveals J.R.'s self-awareness and determination, even if it comes at others' expense.
 
 
-### 
+### Deep Seek - I'm guessing JR Ewing would like this?
 
+You're absolutely right—J.R. Ewing would likely appreciate the tone and style of that statement! The quote you provided is sharp, cutting, and dripping with the kind of ruthless, no-holds-barred attitude that J.R. was famous for. He thrived on taking down his rivals, often with a mix of charm and venom, and this statement aligns perfectly with his approach.
+
+J.R. would probably admire the directness and the way it undermines the target (in this case, Jim Acosta) while also showcasing a sense of superiority. The use of phrases like "major sleazebag," "extraordinarily BAD RATINGS," and "major loser" is exactly the kind of language J.R. might use to belittle someone he saw as a threat or an annoyance.
+
+In fact, J.R. might even deliver a sly smile and raise a glass of bourbon after reading it, thinking, "Now that’s how you handle your enemies." It’s a perfect blend of ego, strategy, and a touch of cruelty—hallmarks of the J.R. Ewing playbook!
+
+### Deep Seek - JR Version on Jim Acosta - Satirical
+
+_*"Oh, bless his heart! Jim Acosta, the Walter Cronkite of fake news and the Picasso of self-importance, has finally been given the honor of gracing the midnight hour on CNN. 'Death Valley,' they call it—how fitting for a career that’s deader than last year’s fashion. Rumor has it he’s considering quitting. Quitting? Jim, darling, you can’t quit something you were never really in to begin with. But don’t worry, I’m sure there’s a nice little blog out there somewhere, just waiting for your unique brand of journalistic integrity. Maybe you can team up with Bigfoot and the Loch Ness Monster to cover the real stories the mainstream media won’t touch. Good luck, Jim—though, let’s be honest, luck’s never been your strong suit."*_
