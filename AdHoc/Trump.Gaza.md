@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-### Open AI Parsed Transcript
+### Deep Seek - Open AI Parsed Transcript
 
 BBC Able to Parse BBC
 
@@ -28,13 +28,13 @@ But results came out in Chinese
 
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/3ccd7508-1736-4431-b1c1-b1318b90886a" />
 
-#### BBC - link
+#### Deep Seek - BBC - link
 
 You seem to have shared a news item to connect to the article, with the headline "Packed in the rolling silk [now the bureau mountain of the lower provinces.] The article reports on the "Zhang" strike by the United States against Iranian-backed militias. Because of this, it is not good.
 
 If the husband has this, he will take it, and he will take it, As usual, you can ask me questions about U.S.-Iran relations, the situation in the Middle East, or the principle of "proportionate response" in international law.
 
-## Al Jazeera - link
+## Deep Seek - Al Jazeera - link
 
 What you're sharing is from Al Jazeera, marked as a diary, [it's an article,] marked as a resident of the active prefecture. Because of this, it is not good.
 
