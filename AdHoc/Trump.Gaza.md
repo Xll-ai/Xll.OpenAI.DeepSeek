@@ -8,7 +8,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="60"></td>
-    <td><strong>DeepSeek V3 - "Open AI on Trump and JR"</strong></td>
+    <td><strong>DeepSeek V3 - "Trump Gaza"</strong></td>
   </tr>
 </table>
 
