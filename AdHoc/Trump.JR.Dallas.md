@@ -6,7 +6,6 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/gpt-4.webp" width="60"></td>
-
     <td><strong>"Open AI on Trump and JR"</strong></td>
   </tr>
 </table>
