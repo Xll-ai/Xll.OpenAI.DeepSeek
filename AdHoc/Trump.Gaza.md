@@ -20,13 +20,13 @@ https://www.bbc.co.uk/news/articles/c9w5q8qn59yo
 
 and Al Jazeera
 
-<img width="719" alt="image" src="https://github.com/user-attachments/assets/3775fbf8-8516-445c-8896-d0974e994c3d" />
+> <img width="719" alt="image" src="https://github.com/user-attachments/assets/3775fbf8-8516-445c-8896-d0974e994c3d" />
 
 OpenAI I had to paste the text manually
 
 But results came out in Chinese
 
-<img width="506" alt="image" src="https://github.com/user-attachments/assets/3ccd7508-1736-4431-b1c1-b1318b90886a" />
+> <img width="506" alt="image" src="https://github.com/user-attachments/assets/3ccd7508-1736-4431-b1c1-b1318b90886a" />
 
 #### Deep Seek - BBC - link
 
