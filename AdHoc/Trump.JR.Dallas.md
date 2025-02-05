@@ -84,7 +84,6 @@ _*Now, rumor has it he wants to quit? Well, ain’t that a shame. If only he'd h
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
-
     <td><strong>Deep Seek - Trump / JR</strong></td>
   </tr>
 </table>
