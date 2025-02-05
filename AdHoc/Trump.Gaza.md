@@ -12,6 +12,8 @@
   </tr>
 </table>
 
+
+
 ### Deep Seek - Open AI Parsed Transcript
 
 BBC Able to Parse BBC
@@ -35,6 +37,8 @@ You seem to have shared a news item to connect to the article, with the headline
 If the husband has this, he will take it, and he will take it, As usual, you can ask me questions about U.S.-Iran relations, the situation in the Middle East, or the principle of "proportionate response" in international law.
 
 ## Deep Seek - Al Jazeera - link
+
+https://www.aljazeera.com/news/2025/2/5/world-reaction-to-trumps-comments-on-ethnic-cleansing-in-gaza
 
 What you're sharing is from Al Jazeera, marked as a diary, [it's an article,] marked as a resident of the active prefecture. Because of this, it is not good.
 
@@ -170,6 +174,7 @@ Jun Yi said: I want to do it,
 
 #### BBC
 
+https://www.bbc.co.uk/news/articles/c9w5q8qn59yo
 >
 >This article details former U.S. President Donald Trump's controversial proposal regarding Gaza, which includes permanently resettling Palestinians elsewhere and having the U.S. take over and rebuild the territory. His remarks, which frame this as a humanitarian solution, have been met with strong opposition from Arab nations, who see it as a clear move toward ethnic cleansing and a violation of international law.
 >
@@ -184,6 +189,9 @@ Jun Yi said: I want to do it,
 >
 
 #### Al Jazeera
+
+https://www.aljazeera.com/news/2025/2/5/world-reaction-to-trumps-comments-on-ethnic-cleansing-in-gaza
+
 
 >President Donald Trump has said the United States will “take over” and “own” Gaza after an ethnic cleansing of Palestinians from the besieged enclave under an extraordinary plan that he claimed could turn the enclave into “the Riviera of the Middle East”.
 >
