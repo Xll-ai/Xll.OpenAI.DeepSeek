@@ -8,7 +8,7 @@
 
 ## Multiple AI-Engine Model Tactics
 
-- Start with Chinese Deekseek Deekthink R1 Reasoning Model as it gives the most detail on it's thought process
+- Start with Chinese Deepseek Deepthink R1 Reasoning Model as it gives the most detail on it's thought process
 - Feed results into into Perplexity (Google) and OpenAI ChatGPT GPT4o
 - Tabulate results and compare
 - Feed all of this into OpenAI Chat-GPTo3 (Fast Reasoning Model)
