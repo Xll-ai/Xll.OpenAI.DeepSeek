@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/e04b2a0d-2370-4501-a624-3631425099bf)## OpenAI Initial
+
+
+
+
 ## Deep Seek
 
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/888729f7-323a-412e-a3ea-30099794fe04" />
@@ -74,3 +79,12 @@ A **"10" remains hypothetical**, as East-West relations have never reached a tru
 
 ---
 ✅ **Copy & paste this Markdown file into GitHub!** Let me know if you need any formatting changes! 🚀
+
+
+| **Perpelixity**  | **Rating** | 
+|------------|------------|
+| <img width="535" alt="image" src="https://github.com/user-attachments/assets/22d530bc-5fdb-4dee-86aa-3d6a843b46da" /> | - 1980: 3 (Soviet invasion of Afghanistan, Olympic Boycott) <br>- 1981: 3 (Reagan's hardline stance) <br>- 1982: 3 (Continued Cold War tensions) <br>- 1983: 2 (Able Archer incident) <br>- 1984: 3 (Continued tensions, but some dialogue) <br>- 1985: 4 (Gorbachev comes to power, initial signs of change) <br>- 1986: 5 (Reykjavik Summit) <br>- 1987: 6 (INF Treaty signed) <br>- 1988: 6 (Improved relations, arms control progress) <br>- 1989: 7 (Fall of the Berlin Wall) <br>- 1990: 7 (German Reunification) <br>- 1991: 8 (Dissolution of the USSR, peak in relations) <br>- 1992: 7 (Post-Soviet optimism, cooperation) <br>- 1993: 7 (Continued cooperation, economic aid to Russia) <br>- 1994: 7 (Partnership for Peace program) <br>- 1995: 6 (NATO expansion begins to cause friction) <br>- 1996: 6 (Russian concerns over NATO) <br>- 1997: 6 (NATO-Russia Founding Act) <br>- 1998: 6 (Economic crisis in Russia) <br>- 1999: 5 (Kosovo War, NATO bombing of Yugoslavia) <br>- 2000: 5 (Putin comes to power) <br>- 2001: 6 (Post-9/11 cooperation on counterterrorism) <br>- 2002: 6 (Continued cooperation, but divergence on Iraq) <br>- 2003: 5 (Iraq War, major disagreement) <br>- 2004: 5 (Further NATO expansion, Baltic states) <br>- 2005: 5 (Growing tensions over democracy and human rights) <br>- 2006: 5 (Litvinenko poisoning, increased tensions) <br>- 2007: 5 (Putin's criticism of US foreign policy) <br>- 2008: 4 (Russo-Georgian War) <br>- 2009: 4 (Obama's "reset" policy initiated) <br>- 2010: 5 (New START Treaty signed) <br>- 2011: 5 (Limited cooperation on some issues) <br>- 2012: 4 (Syria conflict, growing tensions) <br>- 2013: 4 (Snowden leaks, further strain on relations) <br>- 2014: 3 (Annexation of Crimea, start of Donbas War) <br>- 2015: 3 (Sanctions and counter-sanctions) <br>- 2016: 3 (Allegations of Russian election interference) <br>- 2017: 3 (Continued tensions, diplomatic expulsions) <br>- 2018: 3 (Skripal poisoning) <br>- 2019: 3 (Continued sanctions and tensions) <br>- 2020: 3 (US election, further deterioration) <br>- 2021: 3 (Cyberattacks, continued mistrust) <br>- 2022: 1 (Full-scale Russian invasion of Ukraine) <br>- 2023: 1 (War in Ukraine, severe sanctions) <br>- 2024: 1 (Continued conflict, no sign of de-escalation) <br>- 2025: 2 (Slight improvement in dialogue, but fundamental issues remain) <br>
+![image](https://github.com/user-attachments/assets/407278c4-6643-4788-a2d6-5fad4fe51987)
+ |
+
+
