@@ -8,6 +8,17 @@
 
 
 ## Deep Seek
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 60px;"><img src="https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/News/Donald_Rumsfeld_US_Army.png" width="60"></td>
+    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
+    <td <img width="120" alt="image" src="https://github.com/user-attachments/assets/7a82437f-e247-495e-b75e-43da8a8dfef2" /></td>
+  </tr>
+</table>
+
+
+
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
 
 
