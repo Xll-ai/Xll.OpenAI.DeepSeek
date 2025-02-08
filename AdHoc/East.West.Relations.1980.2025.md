@@ -1,9 +1,14 @@
-![image](https://github.com/user-attachments/assets/e04b2a0d-2370-4501-a624-3631425099bf)## OpenAI Initial
 
+## Deep Seek Initial 
+
+- Feed Deekseek into Perplexity and GPT4o
+- Tablute results and compare
+- Feed all of this into GTPo3
 
 
 
 ## Deep Seek
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
 
 
 
@@ -143,3 +148,19 @@ A **"10" remains hypothetical**, as East-West relations have never reached a tru
 | 2025| 🔴 (2)| 🔴 (2)| 🔴 (2)| 
 ![image](https://github.com/user-attachments/assets/8712b560-406f-4b61-8f13-bbc77fc945aa)
 
+
+
+GPT Reasoning (o3)
+
+Reasoned for 9 seconds
+>The user asks for an opinion on East-West relations between 1980 and 2025, but specifically "from a Chinese friend." So, I need to keep that in mind and frame my answer as though it’s coming from a Chinese perspective.
+>
+>It seems like the user wants the response to have a Chinese friend's tone and viewpoint on the rating breakdown. I’ll focus on providing a historical, culturally attuned breakdown of these relations over a specific timeline.
+>
+>The user asks for an opinion "from a Chinese friend" on East-West relations from 1980 to 2025, but the breakdown already provided is from the user. So, my task seems to be either analyzing that breakdown from a Chinese friend's viewpoint or offering a perspective that's shaped by someone from China.
+>
+>It might be that the analysis should reflect how a Chinese person—or someone with that worldview—might assess these relations, which could differ from the typical Western perspective. Good to clarify that.
+>
+>A Chinese friend might argue that the West often interferes in Chinese affairs and that East-West relations should be understood through the lens of the Sino-Soviet split, Sino-US relations, and China’s neutral stance. They may view the timeline as too simplistic, emphasizing nuances like U.S. >hegemony and China’s rise. A Chinese perspective would likely highlight mutual respect, non-interference, and the diverse political systems in the East, suggesting that relations aren't a simple binary between East and West.
+>
+>Below is one way a well‐informed Chinese friend might respond, blending the timeline’s logic with a perspective that questions some Western assumptions:
