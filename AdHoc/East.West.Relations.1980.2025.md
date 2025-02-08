@@ -6,7 +6,7 @@
 <img width="250" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
 
 
-## Mutliple AI-Engine Model Tactics
+## Multiple AI-Engine Model Tactics
 
 - Start with Chinese Deekseek Deekthink R1 Reasoning Model as it gives the most detail on it's thought process
 - Feed results into into Perplexity (Google) and OpenAI ChatGPT GPT4o
