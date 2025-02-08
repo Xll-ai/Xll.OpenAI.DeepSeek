@@ -2,13 +2,9 @@
 # Russia / US
 ## East / West Relations
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
-<td>S Russia Relations 1980-2025</td>
-    <td style="width: 60px;"><img width="120" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
-  </tr>
-</table>
+
+<img width="120" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
+
 
 ## Mutliple AI-Engine Model Tactics
 
