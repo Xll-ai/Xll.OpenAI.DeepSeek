@@ -13,7 +13,7 @@
   <tr>
     <td style="height: 180px;"><img src="https://github.com/user-attachments/assets/e9959be8-8834-472d-90ac-0c0b56e5b313" width="60"></td>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
-<td>Deep Seek - US Russia Relations 1980-2025</td>
+<td>### Deep Seek - US Russia Relations 1980-2025</td>
     <td style="width: 60px;"><img width="120" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
   </tr>
 </table>
