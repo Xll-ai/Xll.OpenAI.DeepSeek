@@ -11,7 +11,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="height: 180px;"><img src="https://github.com/user-attachments/assets/e9959be8-8834-472d-90ac-0c0b56e5b313" width="60"></td>
+    <td style="height: 180px;"><img src="https://github.com/user-attachments/assets/08776b9b-8e90-4791-8214-cc607e7487d4" width="60"></td>
     <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
 <td>### Deep Seek - US Russia Relations 1980-2025</td>
     <td style="width: 60px;"><img width="120" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
@@ -20,6 +20,7 @@
 
 ## Initial Question
 
+<img width="788" alt="image" src="https://github.com/user-attachments/assets/08776b9b-8e90-4791-8214-cc607e7487d4" />
 
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
