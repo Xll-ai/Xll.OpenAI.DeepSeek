@@ -19,7 +19,7 @@
 
 ## Initial Question
 
-<img width="788" alt="image" src="https://github.com/user-attachments/assets/08776b9b-8e90-4791-8214-cc607e7487d4" />
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/08776b9b-8e90-4791-8214-cc607e7487d4" />
 
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
