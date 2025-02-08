@@ -22,7 +22,7 @@
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
 
-#### Deek Think R1 Results
+#### Deep Think R1 Results
 
 # East-West Relations (1980–2025)
 
