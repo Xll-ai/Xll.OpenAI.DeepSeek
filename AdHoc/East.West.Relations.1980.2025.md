@@ -5,7 +5,6 @@
 
 ## Deep Seek
 
-<img width="527" alt="image" src="https://github.com/user-attachments/assets/888729f7-323a-412e-a3ea-30099794fe04" />
 
 
 # East-West Relations (1980–2025)
