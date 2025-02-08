@@ -3,7 +3,7 @@
 ## East / West Relations
 
 
-<img width="120" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
+<img width="250" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
 
 
 ## Mutliple AI-Engine Model Tactics
