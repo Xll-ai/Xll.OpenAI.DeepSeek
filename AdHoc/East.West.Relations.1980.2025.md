@@ -21,10 +21,11 @@
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/08776b9b-8e90-4791-8214-cc607e7487d4" />
 
+#### Thought 82 seconds
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
 
-
+#### Deek Think R1 Results
 
 # East-West Relations (1980–2025)
 
@@ -99,7 +100,10 @@ A **"10" remains hypothetical**, as East-West relations have never reached a tru
 ✅ **Copy & paste this Markdown file into GitHub!** Let me know if you need any formatting changes! 🚀
 
 
-## Perplexity Second Opinion on Deekseek
+## Perplexity (Free) Second Opinion on Deekthink R1 results
+
+<img width="465" alt="image" src="https://github.com/user-attachments/assets/f7405c89-ccda-419e-9c5f-20cd5702d603" />
+
 
 | **Perpelixity**  | **Rating** | 
 |------------|------------|
@@ -109,6 +113,8 @@ A **"10" remains hypothetical**, as East-West relations have never reached a tru
 
 
 ## Open AI GPT4o Second Opinion on Deepseek and Prepexity
+
+<img width="741" alt="image" src="https://github.com/user-attachments/assets/6a469c96-0469-4f0c-9acf-a01c6acec05f" />
 
 
 | Year| Deep Seek| Perpexlity| GTP4-o| 
@@ -164,7 +170,10 @@ A **"10" remains hypothetical**, as East-West relations have never reached a tru
 
 
 
-GPT Reasoning (o3)
+## GPT Reasoning o3-mini
+
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/cfd1acf1-3ae5-4c6d-8941-87eacb6be59d" />
+
 
 Reasoned for 9 seconds
 >The user asks for an opinion on East-West relations between 1980 and 2025, but specifically "from a Chinese friend." So, I need to keep that in mind and frame my answer as though it’s coming from a Chinese perspective.
@@ -179,26 +188,27 @@ Reasoned for 9 seconds
 >
 >Below is one way a well‐informed Chinese friend might respond, blending the timeline’s logic with a perspective that questions some Western assumptions:
 
-A Chinese Friend’s Take on the 1980–2025 East–West Rating
+### A Chinese Friend’s Take on the 1980–2025 East–West Rating
 
 “I appreciate the effort to quantify the ebb and flow of East–West relations over these decades. The timeline you present—from the frosty early ’80s through the post–Cold War optimism and back down into renewed confrontation—captures many real events. Still, I’d add a few thoughts from a Chinese viewpoint.
 
 Cultural Framing and the “0–10” Scale:
 The metaphor of “spending Christmas together” as a 10 is very Western. In Chinese culture, while familial warmth is treasured, our ideas of international harmony emphasize balance, mutual respect, and long‐term stability rather than overt displays of closeness. Hence, even the “high” moments in global diplomacy might be seen as promising but never fully “family” closeness.
 
-The Cold War and Beyond:
+#   The Cold War and Beyond:
 
-1980–1984 (Rating 2–3):
+- 1980–1984 (Rating 2–3):
 Indeed, the early ’80s were marked by intense rivalry and mutual suspicion—with the Soviet invasion of Afghanistan and Reagan’s aggressive rhetoric setting a frosty tone.
-1985–1991 (Rising from 5 to 8):
+
+- 1985–1991 (Rising from 5 to 8):
 Gorbachev’s reforms and arms control initiatives helped ease tensions, culminating in the dramatic events of 1989–1991. From our perspective, however, the post–Cold War euphoria was mixed: while many saw it as a time of great hope, some in China noted that it also signaled a reordering of the world that would later be used to justify interventions in Eastern Europe.
 Post–Soviet Uncertainties (1992–1999):
 Your rating reflects how NATO’s eastward expansion and conflicts like Kosovo shifted the mood. Many Chinese observers felt that these actions, rather than spreading genuine friendship, were more about extending influence—a dynamic that resonates with our own concerns about interference in sovereign matters.
 
-The 2000s and 2010s (Ratings 5–6 then 4–5):
+- The 2000s and 2010s (Ratings 5–6 then 4–5):
 The post–9/11 era and events like the 2008 Georgian war illustrate that even when Western countries project a cooperative image (e.g., working together against terrorism), underlying strategic and ideological differences remain. Here, many in China stress that stability depends on respecting the diverse paths nations take rather than forcing a single model of “closeness.”
 
-Recent Years and the 2020s (Ratings 1–3):
+- Recent Years and the 2020s (Ratings 1–3):
 The dramatic downturn, especially with the full-scale conflict in Ukraine and the subsequent sanctions, underscores a return to confrontation. From our side, this is regrettable: while we acknowledge that recent Western policies have provoked strong reactions, we also worry that the zero‐sum thinking of “us versus them” hampers global cooperation. In China, there’s a consistent call for a multipolar world where disputes are resolved through dialogue and respect for sovereignty.
 
 In summary, while your timeline and ratings accurately track many key events, I’d caution against oversimplifying the complex, layered nature of international relations into a single “warmth” number. Chinese perspectives emphasize that the world isn’t just divided into ‘East’ and ‘West’ spending Christmas together or not—it’s a mosaic of cultures and interests. We prefer to see global order as one where each nation’s path is respected, and where true harmony isn’t measured by a festive metaphor but by sustainable, mutually beneficial stability.”
