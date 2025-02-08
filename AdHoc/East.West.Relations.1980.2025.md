@@ -16,7 +16,7 @@
 
 ##  Deep Seek  Initial Question
 
-> ### can you rate East west relations from 0? 
+> ### can you rate East west relations from 0-10?
 > ### 0 = very frosty 
 > ### to 10 Spending Christmas day together with families
 > ### each year from 1980 to 2025
