@@ -145,7 +145,7 @@ A **"10" remains hypothetical**, as East-West relations have never reached a tru
 | 2023| 🔴 (1)| 🔴 (1)| 🔴 (1)| 
 | 2024| 🔴 (1)| 🔴 (1)| 🔴 (1)| 
 | 2025| 🔴 (2)| 🔴 (2)| 🔴 (2)| 
-![image](https://github.com/user-attachments/assets/8712b560-406f-4b61-8f13-bbc77fc945aa)
+
 
 
 
