@@ -22,6 +22,44 @@
 
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e6c313a-fe6b-4c89-8f53-c22986c14718" />
 
+#### Thought Process
+
+>Okay, so I need to rate East-West relations from 1980 to 2025 on a scale of 0 to 10, where 0 is very frosty and 10 is spending Christmas together with families each year. Let me start by breaking this down.
+>
+>First, I should outline the major events between the East (probably referring to the Soviet Union and its allies) and the West (US, NATO countries) from 1980 onwards. The Cold War was still ongoing in the early 80s, so relations would be frosty. Then, the late 80s saw the fall of the Berlin Wall and the collapse of the Soviet Union in 1991, which would improve relations. The 90s might be a period of warming, but then the 2000s had events like NATO expansion, 9/11, and the War on Terror, which might complicate things. Then, the 2010s with Russia's actions in Crimea and Ukraine, leading to renewed tensions. 2020s would include recent events like the Ukraine war, which is still ongoing in 2023, so up to 2025, relations might be quite bad again.
+>
+>But how to translate these events into a 0-10 scale? Let's start year by year, maybe by decade first, then adjust for specific events.
+>
+>1980-1985: Early 80s, Cold War peak. The Soviet invasion of Afghanistan in 1979 led to US boycotting the 1980 Olympics. Reagan's presidency starts in 1981, with a hardline stance against the USSR. So relations would be around 2-3.
+>
+>Mid-80s: Gorbachev comes to power in 1985, introducing glasnost and perestroika. Reagan and Gorbachev summits, like Reykjavik in 1986. INF Treaty in 1987. Relations improve, maybe up to 6 by 1988.
+>
+>1989-1991: Fall of the Berlin Wall in 1989, dissolution of the USSR in 1991. This is a major thaw. Relations probably peak here, maybe 8-9.
+>
+>1990s: Post-Soviet Russia under Yeltsin. Cooperation with the West, economic aid, but also NATO expansion starting in the mid-90s. So maybe relations start high but decline slightly as NATO expands. Mid-90s, maybe 7-8, late 90s with Kosovo conflict in 1999, relations dip to 6.
+>
+>2000s: Putin comes to power in 2000. Early 2000s, cooperation after 9/11, but Iraq War in 2003 causes some strain. By mid-2000s, tensions over Georgia in 2008. So maybe 2001-2003: 7, then down to 5 by 2008.
+>
+>2010s: Reset attempted under Obama, but Crimea annexation in 2014. Relations drop sharply. Maybe 2010-2013: 6, then 2014 onward: 3-4.
+>
+>2020s: Continued tensions, Ukraine invasion in 2022. Relations at a low, maybe 1-2. Assuming 2025 is similar, so 1.
+>
+>Wait, but the scale is 0 as very frosty and 10 as spending Christmas together. So the highest point would be the early 90s, maybe. But even then, were they that close? Maybe not exactly family Christmas level, but the highest point in relations. So maybe 8 in 1991. Then, after that, it fluctuates but never gets as high again. The 2000s had some cooperation but not as warm. The 2014 Crimea crisis and 2022 invasion are major lows.
+>
+>Need to make sure each year is rated, but maybe group them into periods with explanations. Also, check if there are other events that might affect the score. For example, the expansion of NATO in 1999 (Poland, Hungary, Czech Republic), which Russia opposed. Then the 2004 expansion (Baltic states), which further strained relations. The 2008 Russo-Georgian War. The 2016 election interference allegations. The poisoning incidents in the UK (Skripal in 2018), etc.
+>
+>So, structuring the answer with each period, the key events, and the rating. The user wants each year from 1980 to 2025, but that's 45 years. Listing each year would be tedious, so grouping into periods with start and end years, and explaining the trend.
+>
+>Need to ensure the ratings align with the scale: 0 is very frosty (like active conflict, brink of war), 10 is close family-like ties. The highest point would be the early 90s post-USSR, maybe 8. The lowest points in early 80s and post-2014, especially 2022-2025 at 1-2.
+>
+>Wait, but the scale's maximum is spending Christmas together with families each year. That's a metaphor for extremely warm, friendly relations. So perhaps the highest score would be reserved for a hypothetical scenario where East and West are fully integrated, which hasn't happened. So maybe even the best years (early 90s) would be around 7-8, not 10. Because 10 is an ideal that's never been achieved.
+>
+>Similarly, 0 would be active war, which hasn't happened between the major powers (US and Russia), so the lowest might be 1-2.
+>
+>So adjusting the scale accordingly. Early 80s: 2-3; late 80s: 5-6; early 90s: 7-8; late 90s: 5; 2000s: 4-5; 2010s: 3-4; 2020s: 1-2.
+>
+>But need to check specific events each year. For example, 1983 was a particularly tense year with the Able Archer incident, so maybe lower. 1985-1988 saw improvement. 1989-1991: highest. 1991: USSR dissolves, relations peak. 1999: Kosovo bombing strains relations. 2001: Post-9/11 cooperation. 2003: Iraq War disagreement. 2008: Georgia war. 2014: Crimea. 2022: Ukraine invasion.
+
 #### Deep Think R1 Results
 
 # East-West Relations (1980–2025)
