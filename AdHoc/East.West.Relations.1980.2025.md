@@ -1,13 +1,25 @@
 
-## Deep Seek Initial 
+# Russia / US
+## East / West Relations
 
-- Feed Deekseek into Perplexity and GPT4o
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 60px;"><img src="https://custom.typingmind.com/assets/models/deepseek.png" width="60"></td>
+<td>S Russia Relations 1980-2025</td>
+    <td style="width: 60px;"><img width="120" alt="image"  src="https://github.com/user-attachments/assets/9db334ca-a30a-4f3d-befb-118db89465c3" /></td>
+  </tr>
+</table>
+
+## Mutliple AI-Engine Model Tactics
+
+- Start with Chinese Deekseek Deekseek R1 as it gives the most detail on it's thought process
+- Feed results into into Perplexity (Google) and Perpexity GPT4o
 - Tablute results and compare
-- Feed all of this into GTPo3
+- Feed all of this into GTPo3 Fast Reasoning Model
 
 
 
-## Deep Seek
+## Deep Seek Initial
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
