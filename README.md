@@ -10,4 +10,5 @@ Comparison of AI ChatBots and APIs
 
 
 
-- 
+- ![Perplexity AI](https://img.shields.io/badge/Perplexity%20AI-FF8C00?style=for-the-badge&logo=perplexity&logoColor=white)
+
