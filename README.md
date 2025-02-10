@@ -6,7 +6,7 @@ Comparison of AI ChatBots and APIs
 
 - ### Known knowns - Known Unknowns - Unknown Unknowns <br><br> https://github.com/Xll-ai/Xll.OpenAI.DeepSeek/blob/main/AdHoc/KnownKnowns.md <br>![OpenAI](https://img.shields.io/badge/OpenAI-4B0082?style=for-the-badge&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white)
 
-- ### Trump / Gaza <br><br> (https://github.com/Xll-ai/Xll.OpenAI.DeepSeek/blob/main/AdHoc/Trump.JR.Dallas.md)<br><br>![OpenAI](https://img.shields.io/badge/OpenAI-4B0082?style=for-the-badge&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white)
+- ### Trump / Gaza <br><br> ([https://github.com/Xll-ai/Xll.OpenAI.DeepSeek/blob/main/AdHoc/Trump.JR.Dallas.md)](https://github.com/Xll-ai/Xll.OpenAI.DeepSeek/blob/main/AdHoc/Trump.JR.Dallas.md)<br><br>![OpenAI](https://img.shields.io/badge/OpenAI-4B0082?style=for-the-badge&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white)
 
 - ### Dallas - JR Ewing / Trump <br><br> (https://github.com/Xll-ai/Xll.OpenAI.DeepSeek/blob/main/AdHoc/Trump.JR.Dallas.md)<br><br>![OpenAI](https://img.shields.io/badge/OpenAI-4B0082?style=for-the-badge&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-1E90FF?style=for-the-badge&logo=deepseek&logoColor=white)
 
