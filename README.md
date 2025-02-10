@@ -6,6 +6,7 @@ Comparison of AI ChatBots and APIs
 
 - ### Known Knowns <br><br> 
 
+![OpenAI](https://img.shields.io/badge/OpenAI-FF1493?style=for-the-badge&logo=openai
 
 
 
