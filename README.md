@@ -9,6 +9,7 @@ Comparison of AI ChatBots and APIs
 - ![OpenAI](https://img.shields.io/badge/OpenAI-FF1493?style=for-the-badge&logo=openai
 
 
+![OpenAI](https://img.shields.io/badge/OpenAI-FF4500?style=for-the-badge&logo=openai&logoColor=white)
 
 
 - ![Perplexity AI](https://img.shields.io/badge/Perplexity%20AI-FF8C00?style=for-the-badge&logo=perplexity&logoColor=white)
