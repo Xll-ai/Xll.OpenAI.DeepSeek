@@ -14,4 +14,3 @@ Comparison of AI ChatBots and APIs
 
 
 
-![Llama AI](https://img.shields.io/badge/Llama%20AI-39FF14?style=for-the-badge&logo=meta&logoColor=black)
