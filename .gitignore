@@ -1,0 +1,20 @@
+# Ignore everything by default
+*
+
+# Allow directories (all subfolders)
+!*/
+
+# Allow Markdown files
+!*.md
+
+# Allow image files (adjust extensions as needed)
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.svg
+!*.bmp
+!*.webp
+
+# Ensure .gitignore itself is included
+!.gitignore
